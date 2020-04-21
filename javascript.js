@@ -1,3 +1,4 @@
+//level prompt
 function LevelPrompt() {
   var Level = prompt("Please enter the level you would like to be- text is allowed:", "1e169");
   if (Level == null || Level == ""){} 
